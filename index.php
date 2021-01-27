@@ -8,7 +8,7 @@
 	*/
 	
 	// I. define some constants
-	define('MIN_LIMIT', 1); 
+	define('MIN_LIMIT', 2); 
 	define('MAX_LIMIT', 10); 
 	
 	
